@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pyroanimate",
-    version="0.1.0",
+    version="0.1.1",
     description="A simple animation library for Pyrogram bots",
     author="dap3842",
     author_email="afistal@mail.ru",
