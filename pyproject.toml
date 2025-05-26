@@ -1,7 +1,7 @@
 [project]
-name = "animate-pyrogram"
+name = "pyroanimate"
 version = "0.1.0"
-description = "A simple emoji animation library for Pyrogram bots"
+description = "A simple animation library for Pyrogram bots"
 authors = [
     { name = "dap3842", email = "afistal@mail.ru" }
 ]
