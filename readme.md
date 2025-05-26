@@ -5,15 +5,15 @@ Pyroanimate - библиотека отправки через [Pyrogram](https:
 ## Установка
 Установка библиотеки с помощью pip:
 
-`bash
+```bash
 pip install pyroanimate
-`
+```
 
 Установка через git clone:
 
-`bash
+```bash
 git clone https://github.com/dap3842/pyroanimate.git
-`
+```
 
 
 ## Пример использования
