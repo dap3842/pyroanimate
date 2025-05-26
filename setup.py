@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="animate-pyrogram",
+    name="pyroanimate",
     version="0.1.0",
-    description="A simple emoji animation library for Pyrogram bots",
+    description="A simple animation library for Pyrogram bots",
     author="dap3842",
     author_email="afistal@mail.ru",
     license="MIT",
